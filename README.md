@@ -24,5 +24,5 @@
 ![Image alt](https://github.com/CRESTONOSEC/Implementation-of-the-sweep-method-in-Python/blob/main/17.png)
 
 3. Обратный ход – вычисление n-го корня: Xn = Un и остальных корней
-![Image alt](https://github.com/CRESTONOSEC/Implementation-of-the-sweep-method-in-Python/blob/main/18.png)
 4. Вывод результата в виде вектор решений X[n].
+![Image alt](https://github.com/CRESTONOSEC/Implementation-of-the-sweep-method-in-Python/blob/main/18.png)
